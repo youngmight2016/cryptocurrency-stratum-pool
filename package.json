@@ -37,7 +37,7 @@
         "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git",
         "bignum": "^0.12.5",
         "base58-native": "*",
-        "async": "*",
+        "async": "^2.5.0",
         "redis": "*"
     },
     "engines": {
