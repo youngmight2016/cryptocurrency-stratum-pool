@@ -2,9 +2,6 @@
     "name": "stratum-pool",
     "version": "0.1.9",
     "description": "High performance Stratum poolserver in Node.js",
-    // "name": "merged-pooler",
-    // "version": "1.0.0",
-    // "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
         "stratum",
 	"merged",
@@ -18,9 +15,9 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/lukman80ti/node-merged-pool",
+    "homepage": "https://github.com/nosekefik/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/lukman80ti/node-merged-pool/issues"
+        "url": "https://github.com/nosekefik/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
@@ -34,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lukman80ti/node-merged-pool.git"
+        "url": "https://github.com/lukman80ti/node-stratum-pool.git"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git",
