@@ -34,8 +34,8 @@
         "url": "https://github.com/lukman80ti/node-merged-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git"
-        "bignum": "*",
+        "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git",
+        "bignum": "^0.12.5",
         "base58-native": "*",
         "async": "*",
         "redis": "*"
