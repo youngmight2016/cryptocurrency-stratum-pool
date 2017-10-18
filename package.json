@@ -31,12 +31,12 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lukman80ti/node-stratum-pool.git"
+        "url": "https://github.com/nosekefik/node-stratum-pool.git"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git",
         "bignum": "^0.12.5",
-        "base58-native": "*",
+        "base58-native": "^0.1.4",
         "async": "^2.5.0",
         "redis": "*"
     },
